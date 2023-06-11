@@ -1,0 +1,52 @@
+
+      /* CSS styling for login form */
+      body {
+        background-color: #5D52BA;
+      }
+      
+      .login-form {
+        background-color: #7F73EB;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+        padding: 20px;
+        margin: 10% auto;
+        max-width: 400px;
+        /* text-align: center; */
+      }
+      
+      .login-form h3 {
+        margin-top: 0;
+        color: #fff;
+      }
+      
+      .login-form label {
+        margin-top: 0;
+        color: #fff;
+        text-align: left;
+      }
+
+      /*
+      .login-form input[type="text"], .login-form input[type="password"],.login-form input[type="email"],.login-form input[type="confirm_password"] {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+      
+      .login-form input[type="submit"] {
+        background-color: #5D52BA;
+        color: #fff;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      
+      .login-form input[type="submit"]:hover {
+        background-color: #0DCAF0;
+      }
+    */
